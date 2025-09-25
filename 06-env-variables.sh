@@ -1,4 +1,4 @@
 #!/bin/bash
 
 
-echo "love: $love" 
+echo "love is: $love" 
