@@ -3,4 +3,4 @@
 
 learders=("modi", "putin", "trump")
 
-echo "All leaders:${learders}[@]"
+echo "All leaders:${learders[@]}"
