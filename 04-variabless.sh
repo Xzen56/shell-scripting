@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#Aruguments which pass from server.
 PERSON1=$1
 PERSON2=$2
 
